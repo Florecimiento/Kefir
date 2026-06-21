@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nombre": "Smoothie Piña Avena",
+    "descripcion": "Suave mezcla de piña tropical, avena y miel.",
+    "detalle": "Kéfir con piña y avena cremosa",
+    "precio": 48,
+    "moneda": "MXN",
+    "imagen": "https://i.postimg.cc/pX0TsYBR/Pi-a-avena-y-miel.png",
+    "cantidad": 1,
+    "categoria": "Smoothies"
+  },
+  {
+    "id": 2,
+    "nombre": "Smoothie Plátano Avena",
+    "descripcion": "Combinación plátano, avena y miel.",
+    "detalle": "Kéfir con plátano, avena y miel natural.",
+    "precio": 50,
+    "moneda": "MXN",
+    "imagen": "https://i.postimg.cc/Nj50S9N5/Pl-tano-avena-y-miel.png",
+    "cantidad": 1,
+    "categoria": "Smoothies"
+  },
+  {
+    "id": 3,
+    "nombre": "Smoothie Hojas Verdes",
+    "descripcion": "Delicioso toque de acelga, espinaca y dátiles.",
+    "detalle": "Smoothie verde con acelga, espinaca, dátiles y leche vegetal.",
+    "precio": 52,
+    "moneda": "MXN",
+    "imagen": "https://i.postimg.cc/SsWHG1fq/acelga-espinaca-d-tiles.png",
+    "cantidad": 1,
+    "categoria": "Smoothies"
+  }
+]

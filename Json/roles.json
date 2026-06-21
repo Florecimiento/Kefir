@@ -1,0 +1,14 @@
+[ 
+{
+  "nombre": "superadmin",
+  "descripcion": "Administrador del sistema"
+},
+{
+  "nombre": "admin",
+  "descripcion": "Administrador del recursos del sistema"
+},
+{
+  "nombre": "cliente",
+  "descripcion": "Rol básico"
+}
+]

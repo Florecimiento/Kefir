@@ -1,0 +1,86 @@
+[
+  {
+    "image": "https://i.postimg.cc/vBRDWYtR/fresas.png",
+    "name": "Smoothie de Fresa",
+    "description": "Refrescante y natural, con kéfir y trozos de fresa.",
+    "price": 40,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/1XstjvTQ/Mango.png",
+    "name": "Smoothie de Mango",
+    "description": "Suave mezcla tropical con kéfir de leche.",
+    "price": 40,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/Hkhrk4JB/Ar-ndano-y-moras.png",
+    "name": "Smoothie Purple Vital",
+    "description": "Combinación de arándanos y moras.",
+    "price": 45,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/NMhL1sky/frutos-rojoss.png",
+    "name": "Smoothie Frutos Rojos",
+    "description": "Delicioso toque de fresas, frambuesas y cacao.",
+    "price": 45,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/28jydXhB/Papaya-avena-y-miel.png",
+    "name": "Smoothie Papaya Avena",
+    "description": "Refrescante licuado de papaya, avena y miel con kéfir.",
+    "price": 45,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/pX0TsYBR/Pi-a-avena-y-miel.png",
+    "name": "Smoothie Piña Avena",
+    "description": "Suave mezcla de piña tropical, avena y miel.",
+    "price": 48,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/Nj50S9N5/Pl-tano-avena-y-miel.png",
+    "name": "Smoothie Plátano Avena",
+    "description": "Combinación de plátano, avena y miel.",
+    "price": 50,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/SsWHG1fq/acelga-espinaca-d-tiles.png",
+    "name": "Smoothie Hojas Verdes",
+    "description": "Delicioso toque de acelga, espinaca y dátiles.",
+    "price": 52,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/WpwtkPFT/Matcha.png",
+    "name": "Smoothie de Matcha",
+    "description": "Refrescante y natural, con Matcha.",
+    "price": 45,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/tJkTQhQ9/Matcha-ch-a-cacao.png",
+    "name": "Smoothie Matcha Cacao",
+    "description": "Suave mezcla de Matcha, chía, cacao y kéfir de leche.",
+    "price": 48,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/BZXRMGx4/Nuez-almendra-e-Higos.png",
+    "name": "Smoothie Frutos Secos",
+    "description": "Combinación de manzana, higos y dátiles.",
+    "price": 50,
+    "quantity": 5
+  },
+  {
+    "image": "https://i.postimg.cc/52KHxnvt/Chat-GPT-Image-21-oct-2025-04-43-01-p-m.png",
+    "name": "Smoothie Seeds",
+    "description": "Delicioso toque de nueces, semillas y linaza.",
+    "price": 52,
+    "quantity": 5
+  }
+]

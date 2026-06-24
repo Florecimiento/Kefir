@@ -53,6 +53,7 @@ console.log("🔍 Role encontrado:", role);
 
     return res.json({
       nombre: usuario.nombre,
+      rol: role.nombre,
       redirect: "/menuPrincipal.html"
     });
 

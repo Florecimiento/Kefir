@@ -1,6 +1,7 @@
 ///////////////////////////////////////////
 // FRONT – LOGIN 
 ///////////////////////////////////////////
+console.log("API =", API);
 document.getElementById('loginForm').addEventListener('submit', async (e) => {
   e.preventDefault();
 

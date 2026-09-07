@@ -153,7 +153,7 @@ async function cargarProductos(){
     try{
         const response =
         await fetch(
-        "http://localhost:3000/api/productos"
+        "/api/productos"
         );
         productos =
         await response.json();
@@ -208,7 +208,7 @@ async function eliminarProducto(id){
     try{
         const response =
         await fetch(
-        `http://localhost:3000/api/productos/${id}`,
+        `/api/productos/${id}`,
         {
             method:"DELETE"
         });

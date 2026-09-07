@@ -26,7 +26,7 @@ document.getElementById("registerForm").addEventListener("submit", async (e) => 
   };
 
   try {
-    const response = await fetch("https://kefir.onrender.com/api/usuarios", {
+    const response = await fetch("https://kefir.onrender.com/api/registro", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(data)

@@ -24,15 +24,15 @@
       🗑️ Eliminar
     </button>
 <button class="btn-export btn-pdf"
-onclick="window.open('http://localhost:3000/api/exportaciones/exportar-pdf')">
+onclick="window.open('/api/exportaciones/exportar-pdf')">
 📄 Exportar PDF
 </button>
 <button class="btn-export btn-word"
-onclick="window.open('http://localhost:3000/api/exportaciones/exportar-word')">
+onclick="window.open('/api/exportaciones/exportar-word')">
 📝 Exportar Word
 </button>
 <button class="btn-export btn-excel"
-onclick="window.open('http://localhost:3000/api/exportaciones/exportar-excel')">
+onclick="window.open('/api/exportaciones/exportar-excel')">
 📊 Exportar Excel
 </button>
   </header>
@@ -46,7 +46,7 @@ onclick="window.open('http://localhost:3000/api/exportaciones/exportar-excel')">
 <!-- Word -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
   <script>
-   fetch("http://localhost:3000/api/productos")
+   fetch("/api/productos")
 .then(response => response.json())
 .then(productos => {
     const contenedor =
